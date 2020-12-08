@@ -14,7 +14,7 @@ $c  = 12;
 
 
 print $a + $b + $c;
-
+//A konfliktus megoldva
 // Kivonás
 //------------------
 $x = 35;
