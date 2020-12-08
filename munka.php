@@ -14,7 +14,12 @@ $c  = 12;
 
 
 print $a + $b + $c;
+<<<<<<< HEAD
 //A konfliktus megoldva
+=======
+//Most váltok a Kivonásra
+
+>>>>>>> master
 // Kivonás
 //------------------
 $x = 35;
